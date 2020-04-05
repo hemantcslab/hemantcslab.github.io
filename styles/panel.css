@@ -7,10 +7,12 @@
     width: 25%;
     height: 100%;
     background-color: red;
+    float: left;
 }
 
 .r-p1 {
     width: 75%;
     height: 100%;
     background-color: blue;
+    float: right;
 }
